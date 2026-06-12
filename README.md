@@ -43,6 +43,3 @@ An extension of the page replacement project (List 03), moving from a single-pro
 
 ## Technologies Used
 * **Java**
-
-## Technologies Used 🛠️
-* **Java**
